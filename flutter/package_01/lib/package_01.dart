@@ -1,4 +1,4 @@
-library flutter_package_02;
+library package_01;
 
 import 'package:flutter/material.dart';
 
@@ -23,7 +23,7 @@ class CustomAlertBox {
                 willDisplayWidget,
                 MaterialButton(
                   color: Colors.white30,
-                  child: Text('fecha alerta'),
+                  child: Text('fecha alerta 01'),
                   onPressed: () {
                     Navigator.of(context).pop();
                   },

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_package_02/flutter_package_02.dart';
+import 'package:package_01/package_01.dart';
 
 /*
 void main() {
