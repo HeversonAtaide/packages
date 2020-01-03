@@ -23,7 +23,7 @@ class CustomAlertBox {
                 willDisplayWidget,
                 MaterialButton(
                   color: Colors.white30,
-                  child: Text('fecha alerta 01'),
+                  child: Text('fecha alerta 02'),
                   onPressed: () {
                     Navigator.of(context).pop();
                   },
